@@ -17,7 +17,7 @@ public class ToolIOControlInstallationNodeService implements SwingInstallationNo
 
 	@Override
 	public String getTitle(Locale locale) {
-		return "Tool I/O Control Swing";
+		return "Tool I/O Control";
 	}
 
 	@Override
