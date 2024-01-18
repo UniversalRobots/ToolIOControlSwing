@@ -22,7 +22,7 @@ public class ToolIOControlProgramNodeService implements SwingProgramNodeService<
 
 	@Override
 	public String getTitle(Locale locale) {
-		return "Tool I/O Control Swing";
+		return "Tool I/O Control";
 	}
 
 	@Override

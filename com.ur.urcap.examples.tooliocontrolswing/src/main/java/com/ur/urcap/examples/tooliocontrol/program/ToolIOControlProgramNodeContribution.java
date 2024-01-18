@@ -29,7 +29,7 @@ public class ToolIOControlProgramNodeContribution implements ProgramNodeContribu
 
 	@Override
 	public String getTitle() {
-		return "Tool I/O Control Swing";
+		return "Tool I/O Control";
 	}
 
 	@Override
